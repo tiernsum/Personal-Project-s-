@@ -1,0 +1,1 @@
+This is a speed typing challenge with randomised quotes. The timer is reset after each round, and can be paused and resumed by clicking on the text box.
